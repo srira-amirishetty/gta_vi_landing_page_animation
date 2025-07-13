@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 ## <a name="introduction">🤖 Introduction</a>
 
